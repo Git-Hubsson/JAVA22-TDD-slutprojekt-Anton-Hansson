@@ -1,10 +1,8 @@
-# JAVA22-TDD-slutprojekt-Anton-Hansson
-
-Producer-Consumer Testing Project
-Description:
+#Producer-Consumer Testing Project
+##Description:
 This project is an implementation and comprehensive testing of a Producer-Consumer system adhering to Test-Driven Development (TDD) principles. The task involves testing a "producer-consumer" program where a producer generates "Item" objects, and the consumer consumes these objects. The "Item" objects are stored in a "Buffer" object, and the consumer retrieves items from there. The producer and consumer classes are to be simulated, and only their interfaces are accessible. Both classes need to be simulated and implement the correct interfaces. The entire codebase is subject to testing, covering various aspects such as Boundary testing, Null values, Exceptions, Input/Output, Data Types, and more.
 
-Key Features:
+## Key Features:
 
 Buffer Management: Implementation of a buffer for storing and managing "Item" objects.
 Producer-Consumer Simulation: Simulation of producer and consumer classes with correct interfaces.
