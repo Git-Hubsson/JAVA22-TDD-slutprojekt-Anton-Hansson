@@ -4,7 +4,7 @@ This project is an implementation and comprehensive testing of a Producer-Consum
 
 ## Key Features:
 
-## Buffer Management: Implementation of a buffer for storing and managing "Item" objects.
+Buffer Management: Implementation of a buffer for storing and managing "Item" objects.
 Producer-Consumer Simulation: Simulation of producer and consumer classes with correct interfaces.
 Test-Driven Development (TDD): Comprehensive testing covering Boundary testing, Null values, Exceptions, Input/Output, Data Types, etc.
 Boundary Testing: Ensuring the correct behavior of the system at the edge cases and boundaries.
